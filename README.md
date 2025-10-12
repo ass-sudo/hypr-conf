@@ -1,6 +1,6 @@
 <h1 align="center">My first Hyprland config on Arch Linux</h1>
 
-#### This is my first configuration on hyprland. I'm not particularly skilled at programming, but I tried to make it very optimized and user-friendly. I posted it on GitHub mainly for myself, so that I could use it on different distributions without any problems. I'm not sure if anyone else will use it, but I would be very happy if they did. At the moment, rofi and mako are not configured. I'm not sure if I will update the config in the future, but there will definitely be some minor updates in the near future. I hope you can install it and enjoy it, good luck!
+<h3 align="center">This is my first configuration on hyprland. I'm not particularly skilled at programming, but I tried to make it very optimized and user-friendly. I posted it on GitHub mainly for myself, so that I could use it on different distributions without any problems. I'm not sure if anyone else will use it, but I would be very happy if they did. At the moment, rofi and mako are not configured. I'm not sure if I will update the config in the future, but there will definitely be some minor updates in the near future. I hope you can install it and enjoy it, good luck!</h3>
 
 <h1 align="center">Screenshot</h1>
 
@@ -11,6 +11,10 @@
 ____
 
 <h1 align="center">Program</h1>
+
+<table>
+<tr>
+<td>
 
 | Program    | Component           |
 |------------|---------------------|
@@ -31,4 +35,11 @@ ____
 | FastFetsh  | Termenal Application|
 | BTop       | Termenal Application|
 | Cava       | Termenal Application|
+
+</td>
+<td>
+  <img src="screenshots/5.png" width="400px">
+</td>
+</tr>
+</table>
 
