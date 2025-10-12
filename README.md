@@ -1,4 +1,4 @@
-<p align="center">Т# **My first Hyprland config on Arch Linux**<p>
+<p align="center">**My first Hyprland config on Arch Linux**<p>
 
 ____
 
