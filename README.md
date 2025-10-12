@@ -12,34 +12,24 @@ ____
 
 <h1 align="center">Program</h1>
 
-<table>
-<tr>
-<td>
+| Program        | Component           | Install command                   |
+|----------------|---------------------|-----------------------------------|
+| **Hyprland**   | Windows Manager     | `sudo pacman -S hyprland`         |
+| **Kitty**      | Terminal            | `sudo pacman -S kitty`            |
+| **Fish**       | Shell               | `sudo pacman -S fish`             | 
+| **Nemo**       | File Manager        | `sudo pacman -S nemo`             |
+| **Waybar**     | Bar                 | `sudo pacman -S waybar`           |
+| **Mako**       | Notification        | `sudo pacman -S mako`             |
+| **Rofi**       | Launcher            | `sudo pacman -S rofi`             |
+| **GIMP**       | Image Editor        | `sudo pacman -S gimp`             |
+| **Vim/NVim**   | Editor              | `sudo pacman -S vim/neovim`       |
+| **Grim/Slurp** | Screenshot          | `sudo pacman -S grim slurp`       |
+| **SwayBg**     | Wallpaper           | `sudo pacman -S swaybg`           |
+| **nwg-look**   | All Themes          | `sudo pacman -S nwg-look`         |
+| **Zen-Browser**| Browser             | `yay -S zen-browser`              |
+| **Telegram**   | Messenger           | `sudo pacman -S telegram-desktop` |
+| **FastFetch**  | Terminal Application| `sudo pacman -S fastfetch`        |
+| **BTop**       | Terminal Application| `sudo pacman -S btop`             |
+| **Cava**       | Terminal Application| `sudo pacman -S cava`             |
 
-| Program    | Component           |
-|------------|---------------------|
-| Hyprland   | Windows Manager     |
-| Kitty      | Termenal            |
-| Fish       | Shell               |
-| Nemo       | File Manager        |
-| Waybar     | Bar                 |
-| Mako       | Notification        |
-| Rofi       | Launcher            |
-| GIMP       | Image Editor        |
-| Vim/NVim   | Editor              |
-| Grim/Slurp | Screenshot          |
-| SwayBg     | Wallpaper           |
-| nwg-look   | All Theams          |
-| Zen-Browser| Browser             |
-| Telegram   | Messenger           |
-| FastFetsh  | Termenal Application|
-| BTop       | Termenal Application|
-| Cava       | Termenal Application|
-
-</td>
-<td>
-  <img src="screenshot/5.png" width="550px>
-</td>
-</tr>
-</table>
 
