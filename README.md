@@ -1,10 +1,8 @@
 <h1 align="center">My first Hyprland config on Arch Linux</h1>
 
-____
-
 #### This is my first configuration on hyprland. I'm not particularly skilled at programming, but I tried to make it very optimized and user-friendly. I posted it on GitHub mainly for myself, so that I could use it on different distributions without any problems. I'm not sure if anyone else will use it, but I would be very happy if they did. At the moment, rofi and mako are not configured. I'm not sure if I will update the config in the future, but there will definitely be some minor updates in the near future. I hope you can install it and enjoy it, good luck!
 
-## **Screenshot**
+<h1 align="center">Screenshot</h1>
 
 | ![1](screenshot/1.png) | ![2](screenshot/2.png) |
 |:------------------------:|:------------------------:|
@@ -12,7 +10,7 @@ ____
 
 ____
 
-## **Program**
+<h1 align="center">Program</h1>
 
 | Program    | Component           |
 |------------|---------------------|
