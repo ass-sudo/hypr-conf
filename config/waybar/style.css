@@ -1,0 +1,164 @@
+* {
+  font-size: 16px;
+  font-family: "JetBrainsMono Nerd Font";
+  min-width: 8px;
+  min-height: 0px;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  text-shadow: none;
+  padding: 0px;
+}
+
+window#waybar {
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  border-radius: 8px;
+  border: 2px solid #c7c7c7;
+  background: rgba(2,7,11,0.6); 
+  color: #F5F5F5;
+}
+
+
+menu,
+tooltip {
+  border-radius: 8px;
+  padding: 2px;
+  border: none;
+  background: transparent;
+  color: #F5F5F5;
+}
+
+menu label,
+tooltip label {
+  font-size: 14px;
+  color: #F5F5F5;
+}
+
+.modules-right,
+.modules-left {
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  margin: 6px;
+  border-radius: 4px;
+  background: transparent;
+  color: #F5F5F5;
+}
+
+#gcpu,
+#custom-github,
+#memory,
+#disk,
+#together,
+#submap,
+#custom-weather,
+#custom-recorder,
+#connection,
+#cnoti,
+#brightness,
+#power,
+#custom-updates,
+#tray,
+#audio,
+#privacy,
+#sound,
+#custom-vpn,
+#custom-hotspot {
+  border-radius: 4px;
+  margin: 2px 2px 4px 2px;
+  background: transparent;
+  color: #F5F5F5;
+  border: none;
+}
+
+#custom-notifications {
+  padding-left: 4px;
+  background: transparent;
+}
+
+#custom-hotspot,
+#custom-github,
+#custom-notifications {
+  font-size: 14px;
+}
+
+#custom-hotspot {
+  padding-right: 2px;
+}
+
+#privacy-item {
+  padding: 6px 0px 6px 6px;
+}
+
+#gcpu {
+  padding: 8px 0px 8px 0px;
+}
+
+#custom-cpu-icon {
+  font-size: 25px;
+}
+
+#custom-cputemp,
+#disk,
+#memory,
+#cpu {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#custom-github {
+  padding-top: 2px;
+  padding-right: 4px;
+}
+
+#custom-dmark {
+  color: rgba(199,199,199,0.3);
+}
+
+#submap {
+  margin-bottom: 0px;
+  min-width: 0px;
+  margin: 4px 6px 4px 6px;
+  background: transparent;
+}
+
+#workspaces {
+  margin: 0px 2px;
+  padding: 4px 0px 0px 0px;
+  border-radius: 8px;
+}
+
+#workspaces button {
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  background: transparent;
+  border-radius: 4px;
+  color: rgba(199,199,199,0.3);
+}
+
+#workspaces button.urgent {
+  font-weight: bold;
+  color: #F5F5F5;
+}
+
+#workspaces button.active {
+  padding: 4px 2px;
+  background: rgba(255,255,255,0.05);
+  color: #F5F5F5;
+  border-radius: 4px;
+}
+
+#network.wifi,
+#clock,
+#battery,
+#pulseaudio.mic,
+#custom-weather,
+#tray,
+#bluetooth,
+#backlight-slider,
+#pulseaudio-slider {
+  border: none;
+  background: transparent;
+  color: #F5F5F5;
+}
+
