@@ -38,7 +38,7 @@ ____
 
 </td>
 <td>
-  <img src="screenshots/5.png" width="400px">
+  <img src="screenshot/5.png" width="400px">
 </td>
 </tr>
 </table>
