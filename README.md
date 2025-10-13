@@ -1,7 +1,8 @@
 <h1 align="center">:dizzy: My first Hyprland config on Arch Linux :dizzy:</h1>
 
-<h3 align="center">This is my first Hyprland configuration. I'm not a professional programmer, but I tried to make it as optimized and user-friendly as possible. I uploaded it to GitHub mainly for myself — so I can easily reuse it across different Linux distributions without any issues. I’m not sure if anyone else will find it useful, but I’d be really happy if someone does! At the moment, Rofi and Mako aren’t configured yet. I’m not sure if I’ll continue updating this setup regularly, but there will definitely be some small tweaks and improvements in the near future. I hope you’ll enjoy it and maybe find something useful here. Good luck, and happy ricing!
+<h3 align="center">This is my first Hyprland configuration. I am not a professional programmer, but I tried to make it as optimized and user-friendly as possible. I uploaded it to GitHub mainly for myself — so that I could use it in different Linux distributions without any problems. I don't know if it will be useful to anyone else, but I will be very happy if it is! I don't know if I'll be updating this configuration regularly, but there will definitely be some minor tweaks and improvements in the near future. I hope you like it and find something useful here. Good luck and happy coding!
 </h3>
+
 
 
 
@@ -82,9 +83,15 @@ cp -r Wallpaper ~/Wallpaper
 cp -r Cursor/Mogo/ /usr/share/icons/
 ```
 
-#### Step 6 — Reload Hyprland
+#### Step 6 — Install fonts from AUR
+```
+yay -S ttf-jetbrains-mono-nerd ttf-fira-code-nerd ttf-hack-nerd ttf-meslo-nerd ttf-mononoki-nerd ttf-dejavu-nerd
+
+fc-cache -fv
+```
+
+#### Step 7 — Reload Hyprland
 ```
 hyprctl reload
 ```
-
 <h1 align="center">Install complete! :white_check_mark:</h1>
