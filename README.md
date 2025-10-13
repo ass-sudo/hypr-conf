@@ -1,7 +1,7 @@
 <h1 align="center">:dizzy: My first Hyprland config on Arch Linux :dizzy:</h1>
 
-<h1 align="center">This is my first Hyprland configuration. I'm not a professional programmer, but I tried to make it as optimized and user-friendly as possible. I uploaded it to GitHub mainly for myself — so I can easily reuse it across different Linux distributions without any issues. I’m not sure if anyone else will find it useful, but I’d be really happy if someone does! At the moment, Rofi and Mako aren’t configured yet. I’m not sure if I’ll continue updating this setup regularly, but there will definitely be some small tweaks and improvements in the near future. I hope you’ll enjoy it and maybe find something useful here. Good luck, and happy ricing!
-</h1>
+<h3 align="center">This is my first Hyprland configuration. I'm not a professional programmer, but I tried to make it as optimized and user-friendly as possible. I uploaded it to GitHub mainly for myself — so I can easily reuse it across different Linux distributions without any issues. I’m not sure if anyone else will find it useful, but I’d be really happy if someone does! At the moment, Rofi and Mako aren’t configured yet. I’m not sure if I’ll continue updating this setup regularly, but there will definitely be some small tweaks and improvements in the near future. I hope you’ll enjoy it and maybe find something useful here. Good luck, and happy ricing!
+</h3>
 
 
 
