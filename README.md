@@ -44,15 +44,15 @@ ____
 
 <div align="center">
 
-| Bind :rocket:                | Action :card_index: | Bind :rocket:          | Action :card_index: |
-|------------------------------|-------------------|--------------------------|--------------------|
-| **SUPER + RETURN**           | Kitty             | **SUPER + SHIFT + D**    | Telegram           |
-| **SUPER + Q**                | Kill Active       | **ALT + SHIFT + S**      | Screenshot         |
-| **CTRL + SPACE**             | Change Language   | **SUPER + SHIFT + W**    | Steam              |
-| **ALT +SHIFT + 1-0**         | Change Wallpaper  | **SUPER + SHIFT + E**    | GIMP               |
-| **SUPER + F**                | Full Screen       | **SUPER + R**            | Rofi               |
-| **SUPER + E**                | Nemo              | **SUPER + W**            | Browser            |
-
+| Bind :rocket:                | Action :card_index: | Bind :rocket:             | Action :card_index: |
+|------------------------------|-------------------|-----------------------------|--------------------|
+| **SUPER + RETURN**           | Kitty             | **SUPER + SHIFT + D**       | Telegram           |
+| **SUPER + Q**                | Kill Active       | **ALT + SHIFT + S**         | Screenshot         |
+| **CTRL + SPACE**             | Change Language   | **SUPER + SHIFT + W**       | Steam              |
+| **ALT +SHIFT + 1-0**         | Change Wallpaper  | **SUPER + SHIFT + E**       | GIMP               |
+| **SUPER + F**                | Full Screen       | **SUPER + R**               | Rofi               |
+| **SUPER + E**                | Nemo              | **SUPER + W**               | Browser            |
+| **SUPER + SHIFT + ALT + S**  | Sleep             | **SUPER + SHIFT + ALT + Q** | PowerOff           |
 
 </div>
 
