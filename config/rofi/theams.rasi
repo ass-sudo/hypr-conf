@@ -1,0 +1,114 @@
+* {
+    background:                  #02070b;
+    selected-active-foreground:  var(background);
+    separatorcolor:              var(foreground);
+    urgent-foreground:           #c75c5c;
+    alternate-urgent-background: #080a0f;
+    background-color:            transparent;
+    border-color:                var(foreground);
+    normal-background:           var(background);
+    selected-urgent-background:  #c75c5c;
+    alternate-active-background: #080a0f;
+    spacing:                     10;
+    alternate-normal-foreground: var(foreground);
+    urgent-background:           var(background);
+    selected-normal-foreground:  #c7c7c7;
+    active-foreground:           #c7c7c7;
+    selected-active-background:  #2d4f67;
+    active-background:           #12151d;
+    selected-normal-background:  #12151d;
+    alternate-normal-background: #080a0f;
+    foreground:                  #c7c7c7;
+    selected-urgent-foreground:  #c7c7c7;
+    normal-foreground:           #c7c7c7;
+    alternate-urgent-foreground: #c7c7c7;
+    alternate-active-foreground: #c7c7c7;
+}
+
+element {
+    padding: 10px 10px 10px 25px;
+    cursor: pointer;
+    border: 0;
+}
+
+element normal.normal {
+    background-color: #080a0f;
+    text-color:       #c7c7c7;
+}
+
+element selected.normal {
+    background-color: var(selected-normal-background);
+    text-color:       #c7c7c7;
+}
+
+element alternate.normal {
+    background-color: #080a0f;
+    text-color:       #c7c7c7;
+}
+
+element-text {
+    highlight: #7e9cd8;
+    text-color: #c7c7c7;
+}
+
+window {
+    background-color: #02070b;
+    border: 2;
+    border-color: #c7c7c7;
+    border-radius: 15px;
+    width: 600px;
+}
+
+mainbox {
+    border: 0;
+    background-color: #02070b;
+}
+
+message {
+    padding: 1px;
+    border-color: var(separatorcolor);
+    border: 2px dash 0px 0px;
+}
+
+textbox {
+    background-color: #02070b;
+    text-color: #c7c7c7;
+}
+
+listview {
+    scrollbar: false;
+    background-color: #080a0f;
+    border-radius: 15px;
+    fixed-height: 0;
+    border: 0;
+    lines: 10;
+}
+
+num-filtered-rows { enabled: false; }
+num-rows { enabled: false; }
+textbox-num-sep { enabled: false; }
+
+inputbar {
+    padding: 20px 20px 10px 25px;
+    spacing: 0px;
+    text-color: #c7c7c7;
+    background-color: #02070b;
+}
+
+case-indicator {
+    spacing: 0;
+    text-color: var(normal-foreground);
+    enabled: false;
+}
+
+entry {
+    text-color: #c7c7c7;
+    cursor: text;
+    spacing: 0;
+    placeholder-color: #727169;
+    placeholder: " Search";
+}
+
+prompt { enabled: false; }
+textbox-prompt-colon { enabled: false; }
+
