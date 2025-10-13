@@ -69,28 +69,22 @@ git clone https://github.com/ass-sudo/hypr-conf.git
 cd hypr-conf
 ```
 
-#### Step 3 — Copy all configs to ~/.config/
+#### Step 3 — Copy all configs and wallpaper, .vimrc, cursor
 ```
 cp -r config/* ~/.config/
-```
-
-#### Step 4 — Add wallpapers
-```
 cp -r Wallpaper ~/Wallpaper
-```
-#### Step 5 — Copy cursor
-```
+cp -r .vimrc /home/YOURUSR/
 cp -r Cursor/Mogo/ /usr/share/icons/
 ```
 
-#### Step 6 — Install fonts from AUR
+#### Step 4 — Install fonts from AUR
 ```
 yay -S ttf-jetbrains-mono-nerd ttf-fira-code-nerd ttf-hack-nerd ttf-meslo-nerd ttf-mononoki-nerd ttf-dejavu-nerd
 
 fc-cache -fv
 ```
 
-#### Step 7 — Reload Hyprland
+#### Step 5 — Reload Hyprland
 ```
 hyprctl reload
 ```
