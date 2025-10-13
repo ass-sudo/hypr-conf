@@ -10,9 +10,9 @@
 
 ____
 
-<h1 align="center">Program</h1>
+<h1 align="center">Program :inbox_tray:</h1>
 
-| Program        | Component           | Install command                   |
+| Program :computer: | Component :wrench: | Install command  :page_facing_up:      |
 |----------------|---------------------|-----------------------------------|
 | **Hyprland**   | Windows Manager     | `sudo pacman -S hyprland`         |
 | **Kitty**      | Terminal            | `sudo pacman -S kitty`            |
@@ -26,7 +26,7 @@ ____
 | **Grim/Slurp** | Screenshot          | `sudo pacman -S grim slurp`       |
 | **SwayBg**     | Wallpaper           | `sudo pacman -S swaybg`           |
 | **nwg-look**   | All Themes          | `sudo pacman -S nwg-look`         |
-| **Zen-Browser**| Browser             | `yay -S zen-browser`              |
+| **Zen-Browser**| Browser             | `yay -S zen-browser-bin`          |
 | **Telegram**   | Messenger           | `sudo pacman -S telegram-desktop` |
 | **FastFetch**  | Terminal Application| `sudo pacman -S fastfetch`        |
 | **BTop**       | Terminal Application| `sudo pacman -S btop`             |
