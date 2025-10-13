@@ -43,20 +43,20 @@ ____
 
 <div align="center">
 
-| Bind :rocket:             | Action :card_index:   |
-|---------------------------|-----------------------|
-| SUPER + RETURN            | Kitty                 |
-| SUPER + Q                 | Kill Active           |
-| CTRL + SPACE              | Change Language       |
-| ALT +SHIFT + 1-0          | Change Wallpaper      |
-| SUPER + F                 | Full Screen           |
-| SUPER + R                 | Rofi                  |
-| SUPER + E                 | Nemo                  |
-| SUPER + W                 | Browser               |
-| SUPER + SHIFT + D         | Telegram              |
-| ALT + SHIFT + S           | Screenshot            |
-| SUPER + SHIFT + W         | Steam                 |
-| SUPER + SHIFT + E         | GIMP                  |
+|  Bind :rocket:                | Action :card_index: |
+|-------------------------------|---------------------|
+| **SUPER + RETURN**            | Kitty               |
+| **SUPER + Q**                 | Kill Active         |
+| **CTRL + SPACE**              | Change Language     |
+| **ALT +SHIFT + 1-0**          | Change Wallpaper    |
+| **SUPER + F**                 | Full Screen         |
+| **SUPER + R**                 | Rofi                |
+| **SUPER + E**                 | Nemo                |
+| **SUPER + W**                 | Browser             |
+| **SUPER + SHIFT + D**         | Telegram            |
+| **ALT + SHIFT + S**           | Screenshot          |
+| **SUPER + SHIFT + W**         | Steam               |
+| **SUPER + SHIFT + E**         | GIMP                |
 
 </div>
 
