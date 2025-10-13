@@ -80,7 +80,6 @@ cp -r Cursor/Mogo/ /usr/share/icons/
 #### Step 4 — Install fonts from AUR
 ```
 yay -S ttf-jetbrains-mono-nerd ttf-fira-code-nerd ttf-hack-nerd ttf-meslo-nerd ttf-mononoki-nerd ttf-dejavu-nerd
-
 fc-cache -fv
 ```
 
