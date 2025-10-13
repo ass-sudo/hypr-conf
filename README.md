@@ -39,30 +39,33 @@ ____
 <h1 align="center">Install :jigsaw:</h1>
 
 
-#### :building_construction: Step 1 — Clone the repository
-```bash
+#### Step 1 — Clone the repository
+```
 git clone https://github.com/ass-sudo/hypr-conf.git
 ```
 
-#### :file_folder: Step 2 — Go to the project directory
-```bash
+#### Step 2 — Go to the project directory
+```
 cd hypr-conf
 ```
 
-#### :gear: Step 3 — Copy all configs to ~/.config/
-```bash
+#### Step 3 — Copy all configs to ~/.config/
+```
 cp -r config/* ~/.config/
 ```
 
-#### :framed_picture: Step 4 — Add wallpapers
-```bash
+#### Step 4 — Add wallpapers
+```
 cp -r Wallpaper ~/Wallpaper
 ```
+#### Step 5 — Copy cursor
+```
+cp -r Cursor/Mogo/ /usr/share/icons/
+```
 
-#### :arrows_counterclockwise: Step 5 — Reload Hyprland
-```bash
+#### Step 6 — Reload Hyprland
+```
 hyprctl reload
 ```
----
 
-<h1 align="center">:heavy_check_mark: **Done!**</h1>
+<h1 align="center">:white_check_mark: Installation complete!</h1>
