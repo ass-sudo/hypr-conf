@@ -1,6 +1,6 @@
 <h1 align="center">:dizzy: My first Hyprland config on Arch Linux :dizzy:</h1>
 
-<h3 align="center">This is my first Hyprland configuration. I am not a professional programmer, but I tried to make it as optimized and user-friendly as possible. I uploaded it to GitHub mainly for myself — so that I could use it in different Linux distributions without any problems. I don't know if it will be useful to anyone else, but I will be very happy if it is! I don't know if I'll be updating this configuration regularly, but there will definitely be some minor tweaks and improvements in the near future. I hope you like it and find something useful here. Good luck and happy coding!
+<h3 align="center">This is my first Hyprland configuration. I am not a professional programmer, but I tried to make it as optimized and user-friendly as possible. I uploaded it to GitHub mainly for myself — so that I could use it in different Linux distributions without any problems. I don't know if it will be useful to anyone else, but I will be very happy if it is! I don't know if I'll be updating this configuration regularly, but there will definitely be some minor tweaks and improvements in the near future. I hope you like it and find something useful here. Good luck and happy racing!
 </h3>
 
 
@@ -69,7 +69,7 @@ git clone https://github.com/ass-sudo/hypr-conf.git
 cd hypr-conf
 ```
 
-#### Step 3 — Copy all configs and wallpaper, .vimrc, cursor
+#### Step 3 — Copy config and wallpaper, .vimrc, cursor
 ```
 cp -r config/* ~/.config/
 cp -r Wallpaper ~/Wallpaper
