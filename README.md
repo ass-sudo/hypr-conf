@@ -1,8 +1,8 @@
-<h1 align="center">My first Hyprland config on Arch Linux</h1>
+<h1 align="center">:dizzy: My first Hyprland config on Arch Linux :dizzy:</h1>
 
 <h3 align="center">This is my first configuration on hyprland. I'm not particularly skilled at programming, but I tried to make it very optimized and user-friendly. I posted it on GitHub mainly for myself, so that I could use it on different distributions without any problems. I'm not sure if anyone else will use it, but I would be very happy if they did. At the moment, rofi and mako are not configured. I'm not sure if I will update the config in the future, but there will definitely be some minor updates in the near future. I hope you can install it and enjoy it, good luck!</h3>
 
-<h1 align="center">Screenshot</h1>
+<h1 align="center">Screenshot :book:</h1>
 
 | ![1](screenshot/1.png) | ![2](screenshot/2.png) |
 |:------------------------:|:------------------------:|
@@ -12,7 +12,9 @@ ____
 
 <h1 align="center">Program :inbox_tray:</h1>
 
-| Program :computer: | Component :wrench: | Install command  :page_facing_up:      |
+<div align="center">
+
+| Program :computer: | Component :wrench: | Install command  :clipboard:   |
 |----------------|---------------------|-----------------------------------|
 | **Hyprland**   | Windows Manager     | `sudo pacman -S hyprland`         |
 | **Kitty**      | Terminal            | `sudo pacman -S kitty`            |
@@ -32,4 +34,4 @@ ____
 | **BTop**       | Terminal Application| `sudo pacman -S btop`             |
 | **Cava**       | Terminal Application| `sudo pacman -S cava`             |
 
-
+</div>
