@@ -71,4 +71,4 @@ cp -r Cursor/Mogo/ /usr/share/icons/
 hyprctl reload
 ```
 
-<h1 align="center">:white_check_mark: Installation complete!</h1>
+<h1 align="center">Installation complete! :white_check_mark:</h1>
