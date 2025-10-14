@@ -18,7 +18,7 @@ ____
 
 <div align="center">
 
-| Program :computer: | Component :gear: | Install command  :clipboard:   |
+| Program :computer: | Component :gear: | Install command  :clipboard:     |
 |----------------|---------------------|-----------------------------------|
 | **Hyprland**   | Windows Manager     | `sudo pacman -S hyprland`         |
 | **Kitty**      | Terminal            | `sudo pacman -S kitty`            |
@@ -26,6 +26,7 @@ ____
 | **Nemo**       | File Manager        | `sudo pacman -S nemo`             |
 | **Waybar**     | Bar                 | `sudo pacman -S waybar`           |
 | **Mako**       | Notification        | `sudo pacman -S mako`             |
+| **Steam**      | Gaming Platform     | `sudo pacman -S steam`            |
 | **Rofi**       | Launcher            | `sudo pacman -S rofi`             |
 | **GIMP**       | Image Editor        | `sudo pacman -S gimp`             |
 | **Vim/NVim**   | Editor              | `sudo pacman -S vim/neovim`       |
