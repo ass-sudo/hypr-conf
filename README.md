@@ -63,13 +63,17 @@ ____
 ```
 git clone https://github.com/ass-sudo/hypr-conf.git
 ```
+#### Step 2 - Creating files with dependencies
+```
+mkdir -p ~/Pictures
+```
 
-#### Step 2 — Go to the project directory
+#### Step 3 — Go to the project directory
 ```
 cd hypr-conf
 ```
 
-#### Step 3 — Copy config and wallpaper, .vimrc, cursor
+#### Step 4 — Copy config and wallpaper, .vimrc, cursor
 ```
 cp -r config/* ~/.config/
 cp -r Wallpaper ~/Wallpaper
@@ -77,13 +81,13 @@ cp -r .vimrc /home/YOURUSR/
 cp -r Cursor/Mogo/ /usr/share/icons/
 ```
 
-#### Step 4 — Install fonts from AUR
+#### Step 5 — Install fonts from AUR
 ```
 yay -S ttf-jetbrains-mono-nerd ttf-fira-code-nerd ttf-hack-nerd ttf-meslo-nerd ttf-mononoki-nerd ttf-dejavu-nerd
 fc-cache -fv
 ```
 
-#### Step 5 — Reload Hyprland
+#### Step 6 — Reload Hyprland
 ```
 hyprctl reload
 ```
