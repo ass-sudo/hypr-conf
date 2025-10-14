@@ -77,7 +77,7 @@ cd hypr-conf
 #### Step 4 — Copy config and wallpaper, .vimrc, cursor
 ```
 cp -r config/* ~/.config/
-cp -r Wallpaper /home/YOURUSR/
+cp -r Wallpaper ~/Wallpaper
 cp -r .vimrc /home/YOURUSR/
 ```
 
