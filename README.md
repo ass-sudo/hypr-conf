@@ -66,6 +66,7 @@ git clone https://github.com/ass-sudo/hypr-conf.git
 #### Step 2 - Creating files with dependencies
 ```
 mkdir -p ~/Pictures
+mkdir -p ~/Wallpaper
 ```
 
 #### Step 3 — Go to the project directory
@@ -76,9 +77,8 @@ cd hypr-conf
 #### Step 4 — Copy config and wallpaper, .vimrc, cursor
 ```
 cp -r config/* ~/.config/
-cp -r Wallpaper ~/Wallpaper
+cp -r Wallpaper /home/YOURUSR/
 cp -r .vimrc /home/YOURUSR/
-cp -r Cursor/Mogo/ /usr/share/icons/
 ```
 
 #### Step 5 — Install fonts from AUR
