@@ -56,10 +56,11 @@ ____
 | **SUPER + E**                | Nemo              | **SUPER + W**               | Browser            |
 | **SUPER + SHIFT + ALT + S**  | Sleep             | **SUPER + SHIFT + ALT + Q** | PowerOff           |
 
-<h1 align="center">Structure</h1>
+<h1 align="center">Structure :books:</h1>
 
-```
-/home/YOURUSR
+
+```text
+/home/YOURUSR 
 ├── .config/ -- All configurations
 │   ├── hypr/...
 │   ├── waybar/...
