@@ -87,6 +87,7 @@ ____
 
 <h1 align="center">Install :jigsaw:</h1>
 
+<div align="left">
 
 #### Step 1 — Clone the repository
 ```
