@@ -12,6 +12,8 @@
 |:------------------------:|:------------------------:|
 | ![3](screenshot/3.png) | ![4](screenshot/4.png) |
 
+![Demo GIF](screenshot/demo.gif)
+
 ____
 
 <h1 align="center">Program :inbox_tray:</h1>
@@ -35,6 +37,7 @@ ____
 | **nwg-look**   | All Themes          | `sudo pacman -S nwg-look`         |
 | **Zen-Browser**| Browser             | `yay -S zen-browser-bin`          |
 | **Telegram**   | Messenger           | `sudo pacman -S telegram-desktop` |
+| **MPV**        | Media Player        | `sudo pacman -S mpv`              |
 | **FastFetch**  | Terminal Application| `sudo pacman -S fastfetch`        |
 | **BTop**       | Terminal Application| `sudo pacman -S btop`             |
 | **Cava**       | Terminal Application| `sudo pacman -S cava`             |
