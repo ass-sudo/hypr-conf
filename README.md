@@ -74,12 +74,12 @@ ____
 │   ├── fish/...
 │   └── mineapps.list
 │
-├── Wallpaper/ -- Your wallpaper
+├── Wallpaper/ -- Wallpaper
 │   ├── 0.png
 │   ├── ...
 │   └── 9.png
 │
-├── Picturess/screenshot.png -- Your screenshots
+├── Picturess/screenshot.png -- Screenshots
 └── .vimrc
 ```
 
