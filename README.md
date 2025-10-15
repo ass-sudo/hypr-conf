@@ -58,8 +58,9 @@ ____
 
 <h1 align="center">Structure :books:</h1>
 
+<div align="left">
 
-```text
+```
 /home/YOURUSR 
 ├── .config/ -- All configurations
 │   ├── hypr/...
