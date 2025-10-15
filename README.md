@@ -58,7 +58,6 @@ ____
 
 <h1 align="center">Structure</h1>
 
-<pre>
 /home/YOURUSR
 ├── .config/ -- All configurations
 │   ├── hypr/...
@@ -79,8 +78,6 @@ ____
 │
 ├── Picturess/screenshot.png -- Your screenshots
 └── .vimrc
-</pre>
-
 
 </div>
 
