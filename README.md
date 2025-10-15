@@ -12,8 +12,6 @@
 |:------------------------:|:------------------------:|
 | ![3](screenshot/3.png) | ![4](screenshot/4.png) |
 
-![Demo GIF](screenshot/demo.gif)
-
 ____
 
 <h1 align="center">Program :inbox_tray:</h1>
