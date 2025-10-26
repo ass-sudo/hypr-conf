@@ -111,7 +111,7 @@ cp -r conf-wallpaper /home/YOURUSR/Wallpaper
 cp -r .vimrc /home/YOURUSR/
 ```
 
-#### Step 5 — install AUR
+#### Step 5 — Install AUR
 ```
 git clone https://aur.archlinux.org/yay.git
 cd yay
