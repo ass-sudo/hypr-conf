@@ -107,23 +107,24 @@ cd hypr-conf
 #### Step 4 — Copy config and wallpaper, .vimrc, cursor
 ```
 cp -r config/* ~/.config/
-cp -r Wallpaper ~/conf-wallpaper
+cp -r conf-wallpaper /home/YOURUSR/Wallpaper
 cp -r .vimrc /home/YOURUSR/
 ```
 
 #### Step 5 install AUR
 ```
-
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
 ```
 
-
-#### Step 5 — Install fonts from AUR
+#### Step 6 — Install fonts from AUR
 ```
 yay -S ttf-jetbrains-mono-nerd ttf-fira-code-nerd ttf-hack-nerd ttf-meslo-nerd ttf-mononoki-nerd ttf-dejavu-nerd
 fc-cache -fv
 ```
 
-#### Step 6 — Reload Hyprland
+#### Step 7 — Reload Hyprland
 ```
 hyprctl reload
 ```
