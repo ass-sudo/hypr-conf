@@ -111,7 +111,7 @@ cp -r conf-wallpaper /home/YOURUSR/Wallpaper
 cp -r .vimrc /home/YOURUSR/
 ```
 
-#### Step 5 install AUR
+#### Step 5 — install AUR
 ```
 git clone https://aur.archlinux.org/yay.git
 cd yay
@@ -128,13 +128,11 @@ fc-cache -fv
 ```
 hyprctl reload
 ```
-<h1 align="center">Install complete! :white_check_mark:</h1>
-
 <h1 align="center">Recommendations :bug:</h1>
 
 <div align="left">
 
-#### Step 1 Set your screen parameters in
+#### Step 1 — Set your screen parameters in
 ```
 ~/.config/hypr/hyprland.config
     |
@@ -144,7 +142,7 @@ hyprctl reload
         exeple: monitor = DP-1, 1920x1080@165, 0x0, 1 
 ```
 
-#### Step 2 Specify your monitor for waybar
+#### Step 2 — Specify your monitor for waybar
 ```
 ~/.config/waybar/config.jsonc
     |
