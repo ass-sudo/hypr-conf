@@ -129,3 +129,36 @@ fc-cache -fv
 hyprctl reload
 ```
 <h1 align="center">Install complete! :white_check_mark:</h1>
+
+<h1 align="center">Recommendations :bug:</h1>
+
+<div align="left">
+
+#### Step 1 Set your screen parameters in
+```
+~/.config/hypr/hyprland.config
+    |
+    v
+
+    monitor = NAME, SCREEN RESOLUTION@Hz, PLACE LOCATION, 1
+        exeple: monitor = DP-1, 1920x1080@165, 0x0, 1 
+```
+
+#### Step 2 Specify your monitor for waybar
+```
+~/.config/waybar/config.jsonc
+    |
+    v
+
+    [
+      {
+      "output": [ "DP-1" ], ~~~ change to your monitor
+        "include": [
+          "~/.config/waybar/bars/top.jsonc",
+        ],
+      }
+    ]
+```
+
+
+
