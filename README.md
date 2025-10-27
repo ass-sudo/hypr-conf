@@ -132,7 +132,7 @@ hyprctl reload
 
 <div align="left">
 
-#### Step 1 — Set your screen parameters in
+#### 1 — Set your screen parameters in
 ```
 ~/.config/hypr/hyprland.config
     |
@@ -142,7 +142,7 @@ hyprctl reload
         exeple: monitor = DP-1, 1920x1080@165, 0x0, 1 
 ```
 
-#### Step 2 — Specify your monitor for waybar
+#### 2 — Specify your monitor for waybar
 ```
 ~/.config/waybar/config.jsonc
     |
@@ -157,6 +157,6 @@ hyprctl reload
       }
     ]
 ```
-
+#### 3 - Do not change the layout switch to ALT + SHIFT, as this will break many bindings
 
 
